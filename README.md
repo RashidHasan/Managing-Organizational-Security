@@ -22,12 +22,12 @@ Upon completion of the vulnerability assessment, a comprehensive report will be 
 
 # Ownership Notice
 
-This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and projects are provided solely for the purpose of providing interest and compiling my experiences.
+This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and the projects are provided solely for the purpose of providing benefits and compiling my experiences.
 
 By accessing or using this project, you agree to respect the proprietary rights of "Rashid Hassan". Any use outside the scope of the license or permission granted is subject to legal action.
 
-For inquiries or requests for cooperation, please contact me through my email on the home page.
+For inquiries or to request cooperation, please contact me via my email on the home page.
 
 Thank you for your understanding and cooperation.
 
-Rashid Hassan
+Rashid Hassan.
