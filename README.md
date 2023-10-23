@@ -3,7 +3,7 @@
 
 
 
-## Information Security Project: Vulnerability Assessment
+# Information Security Project: Vulnerability Assessment
 
 ## Project Overview
 
