@@ -1,7 +1,7 @@
 ![Screenshot (1126)](https://github.com/RashidHasan/Managing-Organizational-Security/assets/136935583/2f34e4a4-580c-48ad-861a-cad251dc6e37)
 
 
-# Managing Organizational Security
+
 
 ## Information Security Project: Vulnerability Assessment
 
